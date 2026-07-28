@@ -1,7 +1,7 @@
 
 # 👋 Olá, eu sou João Duarte!
 
-🎓 Atualmente curso **Engenharia de Software segundo semestre no centro universitario de brasilia** e estou em constante busca por aprendizado e desenvolvimento profissional.
+🎓 Atualmente curso **Engenharia de Software segundo semestre no centro universitário de Brasília** e estou em constante busca por aprendizado e desenvolvimento profissional.
 
 💻 Sou apaixonado por tecnologia, programação e resolução de problemas. Estou buscando oportunidades para adquirir experiência prática, contribuir com projetos e evoluir minhas habilidades como desenvolvedor.
 
